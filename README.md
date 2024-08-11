@@ -13,6 +13,7 @@ GetX is a powerful and lightweight state management solution for Flutter that si
 
 ## Folder Structure for GetX
 
+```bash
 lib/
 ├── controllers/
 │   └── controller.dart
@@ -21,6 +22,7 @@ lib/
 ├── views/
 │   ├── home_page.dart
 ├── main.dart
+```
 
 
 # Counter App using Getx
