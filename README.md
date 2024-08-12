@@ -30,3 +30,12 @@ lib/
 <img src="https://github.com/user-attachments/assets/4ee0bdd0-5d71-4449-8826-b1b337d01e08" height=65% width=22%>
 
 https://github.com/user-attachments/assets/7f409da6-e341-4759-b2cd-5ef1f12b5afb
+
+# CRUD Operation using Getx
+
+<img src="https://github.com/user-attachments/assets/3f3bf9b4-4666-4fff-ada3-bd6cf4b4e422" height=65% width=22%>
+<img src="https://github.com/user-attachments/assets/9bd8f4a3-acef-4c43-a3c4-6cdb0e27f4e8" height=65% width=22%>
+<img src="https://github.com/user-attachments/assets/86af29eb-70e0-4a43-860d-895c05eb11a5" height=65% width=22%>
+<img src="https://github.com/user-attachments/assets/3a1a6b1e-b386-4b80-bbf5-52faa6b1a8e7" height=65% width=22%>
+
+https://github.com/user-attachments/assets/077bcbf6-3d8b-43f3-ac60-67d56517afa6
