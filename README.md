@@ -33,6 +33,20 @@ https://github.com/user-attachments/assets/7f409da6-e341-4759-b2cd-5ef1f12b5afb
 
 # CRUD Operation using Getx
 
+## Description
+
+In a Flutter app using GetX for managing employee details, CRUD operations are handled through local state management:
+
+- **Create**: Users can add new employee records via a form. The details are stored in a local list maintained by a GetX controller.
+
+- **Read**: Displays the list of employee records directly from the local state. GetX ensures that the UI is updated in real-time as the state changes.
+
+- **Update**: Allows users to modify existing employee details. Changes are made through a form, and the GetX controller updates the local list and refreshes the UI to reflect the changes.
+
+- **Delete**: Enables users to remove employee records from the local list. GetX handles the state update and ensures the UI reflects the removal immediately.
+
+GetX manages the app's state reactively, ensuring a smooth and responsive user experience without the need for a database.
+
 <img src="https://github.com/user-attachments/assets/3f3bf9b4-4666-4fff-ada3-bd6cf4b4e422" height=65% width=22%>
 <img src="https://github.com/user-attachments/assets/9bd8f4a3-acef-4c43-a3c4-6cdb0e27f4e8" height=65% width=22%>
 <img src="https://github.com/user-attachments/assets/86af29eb-70e0-4a43-860d-895c05eb11a5" height=65% width=22%>
