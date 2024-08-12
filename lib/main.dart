@@ -1,4 +1,5 @@
 import 'package:adv_flutter_getx/view/counter.dart';
+import 'package:adv_flutter_getx/view/employee_management_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       getPages: [
         GetPage(
           name: '/',
-          page: () => const CounterApp(),
+          page: () => const EmployeeManagementScreen(),
         ),
       ],
     );
